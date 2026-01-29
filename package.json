@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "adm-zip": "^0.5.16",
+    "eleventy-plugin-file-list": "^0.0.5",
+    "glob-promise": "^6.0.7"
+  },
+  "type": "module",
+  "engines": {
+    "node": "^24.13.0",
+    "npm": "^11.6.2"
+  }
+}
