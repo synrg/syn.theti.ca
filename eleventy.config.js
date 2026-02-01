@@ -11,6 +11,6 @@ export default async function(eleventyConfig) {
 		const resource = await glob('./files/**/*');
 		const zip = new AdmZip();
 		resource.forEach(f => zip.addLocalFile(f));
-		zip.writeZip('_site/mc/inaturalist.32.zip');
+		zip.writeZip('_site/mc/inaturalist.zip');
 	});
 };

@@ -1,4 +1,4 @@
-iNaturalist Minecraft resource pack: [inaturalist.32.zip](inaturalist.32.zip)
+iNaturalist Minecraft resource pack: [inaturalist.zip](inaturalist.zip)
 
 Contents unpacked to <tt>/files/</tt> for reference:
 
